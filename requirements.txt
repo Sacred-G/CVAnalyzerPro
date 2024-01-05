@@ -1,0 +1,6 @@
+streamlit
+openai
+PyPDF2
+sqlite3
+hashlib
+google-generativeai==0.3.2
