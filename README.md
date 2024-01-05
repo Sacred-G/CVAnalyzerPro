@@ -6,7 +6,7 @@
 Whether you're dealing with hundreds of applications or searching for that one perfect candidate, **CVAnalyzerPro** simplifies and streamlines your workflow. 📊🔍
 
 ## Live Demo 🎥
-👉 [https://cvanalyzerpro-75qjmbtrjfzszpqwktyxbv.streamlit.app/](https://cvanalyzerpro-75qjmbtrjfzszpqwktyxbv.streamlit.app/)
+👉 [https://cvanalyzerpro-lxv2nxsyvdx5ap55fbh9jl.streamlit.app/](https://cvanalyzerpro-lxv2nxsyvdx5ap55fbh9jl.streamlit.app/)
 
 ## Features:
 - **AI-Powered Scoring**: Utilizing the latest in machine learning, CVAnalyzerPro scores resumes based on your custom requirements. 🧠✅
