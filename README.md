@@ -58,9 +58,7 @@ streamlit run app.py
 📞 Contact Information
 For support, feedback, or contributions, please reach out to:
 
-- 📧 **Email**: [kowshikcseruet1998@gmail.com](mailto:kowshikcseruet1998@gmail.com)
-- 📱 **Phone**: 01706 896161
-- 🌐 **Website**: [https://kowshik24.github.io/kowshik.github.io/](https://kowshik24.github.io/kowshik.github.io/)
-- 🚀 **GitHub**: [Kowshik Deb Nath](https://github.com/kowshik24)
-- 🤝 **LinkedIn**: [Kowshik Deb Nath](https://www.linkedin.com/in/kowshik-deb-nath-7a0a3a1a0/)
+- 📧 **Email**: [steven@stevenbouldin.com](mailto:steven@stevenbouldin.com))
+- 🚀 **GitHub**: [Steven Bouldin](https://github.com/sacredg)
+
 ---
