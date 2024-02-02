@@ -44,7 +44,7 @@ To set up CVAnalyzerPro, follow these steps:
 
 Clone the repository: 
 ```bash
-git clone https://github.com/kowshik24/CVAnalyzerPro.git
+git clone https://github.com/sacredg/CVAnalyzerPro.git
 ```
 Install the required packages:
 ```bash 
